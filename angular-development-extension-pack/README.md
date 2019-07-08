@@ -2,24 +2,8 @@
 
 Angular/Front-End Devleopment Extension Pack for Visual Studio Code.
 
-It contains the following extensions:
+It's goal is to give you all the extensions needed for development but skips everything that changes the looks of Visual Studio Code. 
 
-```
-"angular.ng-template",
-"angulardoc.angulardoc-vscode",
-"coenraads.bracket-pair-colorizer",
-"cyrilletuzi.angular-schematics",
-"davidanson.vscode-markdownlint",
-"editorconfig.editorconfig",
-"eg2.vscode-npm-script",
-"esbenp.prettier-vscode",
-"joelday.docthis",
-"johnpapa.vscode-peacock",
-"mike-co.import-sorter",
-"ms-azuretools.vscode-docker",
-"ms-vscode.vscode-typescript-tslint-plugin",
-"ms-vsliveshare.vsliveshare-pack",
-"msjsdiag.debugger-for-chrome",
-"nrwl.angular-console",
-"wayou.vscode-todo-highlight"
-```
+That includes extensions for writing code, documentation, linting, collaboration or starting containers with your back-end.
+
+I explicitly avoid adding angular snippets. 
