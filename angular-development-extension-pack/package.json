@@ -1,0 +1,15 @@
+{
+    "name": "angular-development-extension-pack",
+    "displayName": "Angular Development Extension Pack",
+    "description": "Angular/Front-End Devleopment Extension Pack for Visual Studio Code",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.36.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "publisher.extensionName"
+    ]
+}
