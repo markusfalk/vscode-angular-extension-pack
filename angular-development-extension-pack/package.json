@@ -10,7 +10,8 @@
         "type": "git", 
         "url": "https://github.com/username/extension-repo"
     },
-    "icon": "icon.png",
+    "publisher": "MarkusFalk",
+    "icon": "logo.png",
     "categories": [
         "Extension Packs"
     ],
