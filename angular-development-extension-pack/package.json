@@ -38,6 +38,6 @@
         "msjsdiag.debugger-for-chrome",
         "naumovs.color-highlight",
         "nrwl.angular-console",
-        "wayou.vscode-todo-highlight",
+        "wayou.vscode-todo-highlight"
     ]
 }
