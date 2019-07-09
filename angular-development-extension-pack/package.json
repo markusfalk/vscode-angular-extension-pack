@@ -2,13 +2,13 @@
     "name": "angular-development-extension-pack",
     "displayName": "Angular Development Extension Pack",
     "description": "Angular/Front-End Devleopment Extension Pack for Visual Studio Code",
-    "version": "0.0.2",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.36.0"
     },
     "repository": {
         "type": "git", 
-        "url": "https://github.com/username/extension-repo"
+        "url": "https://github.com/markusfalk/vscode-angular-extension-pack"
     },
     "publisher": "MarkusFalk",
     "icon": "logo.png",
@@ -19,19 +19,25 @@
         "angular.ng-template",
         "angulardoc.angulardoc-vscode",
         "coenraads.bracket-pair-colorizer",
+        "cssho.vscode-svgviewer",
         "cyrilletuzi.angular-schematics",
         "davidanson.vscode-markdownlint",
+        "dbaeumer.vscode-eslint",
+        "eamodio.gitlens",
         "editorconfig.editorconfig",
         "eg2.vscode-npm-script",
         "esbenp.prettier-vscode",
+        "formulahendry.auto-rename",
         "joelday.docthis",
         "johnpapa.vscode-peacock",
-        "mike-co.import-sorter",
+        "mhutchie.git-graph",
+        "mkaufman.htmlhint",
         "ms-azuretools.vscode-docker",
         "ms-vscode.vscode-typescript-tslint-plugin",
         "ms-vsliveshare.vsliveshare-pack",
         "msjsdiag.debugger-for-chrome",
+        "naumovs.color-highlight",
         "nrwl.angular-console",
-        "wayou.vscode-todo-highlight"
+        "wayou.vscode-todo-highlight",
     ]
 }

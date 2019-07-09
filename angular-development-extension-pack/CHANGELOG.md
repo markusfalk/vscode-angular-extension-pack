@@ -1,9 +1,25 @@
 # Change Log
 
-All notable changes to the "angular-development-extension-pack" extension pack will be documented in this file.
+## 1.0.0
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+Added more packages:
 
-## [Unreleased]
+* cssho.vscode-svgviewer
+* dbaeumer.vscode-eslint
+* eamodio.gitlens
+* formulahendry.auto-rename
+* mhutchie.git-graph
+* mkaufman.htmlhint
+* naumovs.color-highlight
 
-- Initial release
+Remove in favor of native functionality:
+
+* mike-co.import-sorter
+
+## [0.0.2]
+
+* New Icon
+
+## [0.0.1]
+
+* Initial release
