@@ -1,5 +1,13 @@
 # Change Log
 
+## 1.2.0
+
+added mike-co.import-sorter
+
+## 1.1.1
+
+Change description
+
 ## 1.1.0
 
 Added raagh.angular-karma-test-explorer
