@@ -13,8 +13,8 @@ I explicitly avoid adding angular snippets as there are so many and I don't want
 * [Angular Console](https://marketplace.visualstudio.com/items?itemName=nrwl.angular-console)
 * [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=angular.ng-template)
 * [Angular Schematics](https://marketplace.visualstudio.com/items?itemName=cyrilletuzi.angular-schematics)
+* [Angular/Karma Test Explorer](https://marketplace.visualstudio.com/items?itemName=raagh.angular-karma-test-explorer)
 * [AngularDoc for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=angulardoc.angulardoc-vscode)
-* [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=coenraads.bracket-pair-colorizer)
 
 ### Workflow
 
@@ -45,3 +45,4 @@ I explicitly avoid adding angular snippets as there are so many and I don't want
 * [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
 * [SVG Viewer](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer)
 * [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
+* [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=coenraads.bracket-pair-colorizer)

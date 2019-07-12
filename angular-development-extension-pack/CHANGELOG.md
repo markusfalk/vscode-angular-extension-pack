@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.1.0
+
+Added raagh.angular-karma-test-explorer
+
 ## 1.0.0
 
 Added more packages:
