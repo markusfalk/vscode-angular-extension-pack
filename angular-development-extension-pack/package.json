@@ -2,7 +2,7 @@
     "name": "angular-development-extension-pack",
     "displayName": "Angular Development Extension Pack",
     "description": "This exension pack is a currated list of all the extension you may need for Angular development.",
-    "version": "1.1.1",
+    "version": "1.2.0",
     "engines": {
         "vscode": "^1.36.0"
     },
