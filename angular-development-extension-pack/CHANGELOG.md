@@ -1,8 +1,12 @@
 # Change Log
 
+## 1.3.0
+
+Split extension pack into extension packages for JavaScript, TypeScript and Angular.
+
 ## 1.2.0
 
-added mike-co.import-sorter
+Added mike-co.import-sorter
 
 ## 1.1.1
 

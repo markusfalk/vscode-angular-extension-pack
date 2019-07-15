@@ -22,6 +22,6 @@
         "ms-azuretools.vscode-docker",
         "nrwl.angular-console",
         "raagh.angular-karma-test-explorer",
-        "MarkusFalk.typescript-development-extension-pack"
+        "markusfalk.typescript-development-extension-pack"
     ]
 }
