@@ -4,7 +4,7 @@ This exension pack is a currated list of all the extension you may need for Angu
 
 It does not include any theming as this should be your personal preference.
 
-I explicitly avoid adding angular snippets as there are so many and I don't want to force you to learn one or the other.
+I explicitly avoid angular snippets as there are so many and I don't want to force you to learn one or the other.
 
 ## Whats in the Box
 
