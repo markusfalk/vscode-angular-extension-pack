@@ -1,24 +1,28 @@
 # Change Log
 
+## 2.0.0
+
+* move language agnostic tooling to its own extension pack: [Development Tools Extension Pack](https://marketplace.visualstudio.com/items?itemName=MarkusFalk.development-tools-extension-pack)
+
 ## 1.3.0
 
-Split extension pack into extension packages for JavaScript, TypeScript and Angular.
+* Split extension pack into extension packages for JavaScript, TypeScript and Angular.
 
 ## 1.2.0
 
-Added mike-co.import-sorter
+* Add mike-co.import-sorter
 
 ## 1.1.1
 
-Change description
+* Change description
 
 ## 1.1.0
 
-Added raagh.angular-karma-test-explorer
+* Add raagh.angular-karma-test-explorer
 
 ## 1.0.0
 
-Added more packages:
+Add more packages:
 
 * cssho.vscode-svgviewer
 * dbaeumer.vscode-eslint
