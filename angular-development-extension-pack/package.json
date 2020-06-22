@@ -19,7 +19,6 @@
         "angular.ng-template",
         "angulardoc.angulardoc-vscode",
         "cyrilletuzi.angular-schematics",
-        "ms-azuretools.vscode-docker",
         "nrwl.angular-console",
         "raagh.angular-karma-test-explorer",
         "markusfalk.typescript-development-extension-pack"
