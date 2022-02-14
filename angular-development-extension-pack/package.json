@@ -25,9 +25,8 @@
     "extensionPack": [
         "angular.ng-template",
         "angulardoc.angulardoc-vscode",
-        "cyrilletuzi.angular-schematics",
-        "nrwl.angular-console",
-        "raagh.angular-karma-test-explorer",
-        "markusfalk.typescript-development-extension-pack"
+        "bilelmsekni.componizer",
+        "markusfalk.typescript-development-extension-pack",
+        "nrwl.angular-console"
     ]
 }
